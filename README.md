@@ -1,8 +1,4 @@
-<h1 align="center">
-  <br>
-    <img src="https://raw.githubusercontent.com/marmo42/marmo42/main/assets/github/images/cover.png">
-  <br>
-</h1>
+<img src="https://raw.githubusercontent.com/marmo42/marmo42/main/assets/github/images/cover.png">
 
 ## Hi 👋, I'm Marmo
 
